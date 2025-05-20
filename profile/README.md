@@ -1,7 +1,10 @@
 <h1 align="center">Innovative Studios - Official Github</h1>
 
-Hi there 👋! Welcome to the official Github page for Innovative Studios. We are a group of developers that create a wide range of resources for FiveM servers including web panel dashboards and FiveM scripts. Our scripts include the basic languages(Lua, HTML, CSS, JS) and more complicated languages used for other resources(PHP, TS, TSX, ReactJS and more).
+Hi there 👋 Welcome to the official GitHub for Innovative Studios!
 
+We’re a team of developers creating powerful, scalable tools for both FiveM servers and real-world businesses. Our offerings include everything from custom web panels and FiveM scripts to full-stack solutions using modern technologies like TypeScript, React (TSX), NextJS and more.
+
+Whether you're running a roleplay server or a niche business, we build with performance and reliability in mind.
 ## Important Links
 **Our Website:** [Innovative Studios](https://ivs.dev)<br>
 **Discord Server** [Innovative Studios Discord](https://discord.ivs.dev)<br>
