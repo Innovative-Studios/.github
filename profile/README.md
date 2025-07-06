@@ -6,7 +6,7 @@ We’re a team of developers creating powerful, scalable tools for both FiveM se
 
 Whether you're running a roleplay server or a niche business, we build with performance and reliability in mind.
 ## Important Links
-**Tebex Web-Store:** [Store](https://store.ivs.dev)
+**Tebex Web-Store:** [Store](https://store.ivs.dev)<br>
 **Discord Server** [Discord](https://discord.ivs.dev)<br>
 **Customer Portal:** [Customer Portal](https://setup.ivs.dev) <br>
 **Documentation:** [Documentation](https://docs.ivs.dev)<br>
